@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DavidDroppaBomb
-- 👀 I’m interested in ... Learning about app development, and setting up vpns, 
-- 🌱 I’m currently learning Information technology
-- 💞️ I’m looking to collaborate on ... just about anything
-- 📫 How to reach me ... through git hub only
+- 👀 I’m interested in ... Learning about android app development, learning about cryptocurrency assets, spirituality and basic human decency. 
+- 🌱 I’m currently learning Arch Linux
+- 💞️ I’m looking to collaborate on building a website and launching my first business
+- 📫 How to reach me @dayybbiidd on X https://YouTube.com/daviddroppabomb
 
 <!---
 DavidDroppaBomb/DavidDroppaBomb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
